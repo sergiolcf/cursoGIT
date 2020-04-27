@@ -10,6 +10,9 @@ namespace TesteGit_GitHub
     {
         static void Main(string[] args)
         {
+
+            Console.Write("Hello Git e GitHub");
+            Console.WriteLine("Primeira alteração do git e github");
         }
     }
 }
