@@ -13,6 +13,7 @@ namespace TesteGit_GitHub
 
             Console.Write("Hello Git e GitHub");
             Console.WriteLine("Primeira alteração do git e github");
+            Console.Write("Teste do último commit");
         }
     }
 }
